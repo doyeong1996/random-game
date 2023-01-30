@@ -1,0 +1,15 @@
+h2 {
+  display: inline-block;
+}
+
+.header input {
+  width: 80px;
+  height: 16px;
+}
+.content-form span:last-child {
+  display: block;
+}
+.result span {
+  font-size: 30px;
+  font-weight: 600;
+}
